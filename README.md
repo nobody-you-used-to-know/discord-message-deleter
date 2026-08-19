@@ -7,7 +7,7 @@ Your token = full login to your account. No password, no 2FA needed. **Never** p
 
 ## Install
 1. Get [Tampermonkey](https://www.tampermonkey.net/).
-2. **[Click here to install](https://raw.githubusercontent.com/nobody-you-used-to-know/discord-message-deleter/main/discord-message-deleter.user.js)** — Tampermonkey pops an install prompt. (Or: Dashboard → Create new script → paste [`discord-message-deleter.user.js`](./discord-message-deleter.user.js) → save.)
+2. **[Install from Greasy Fork](https://greasyfork.org/en/scripts/591955-discord-message-deleter-dm-channel-cleaner)** — click "Install this script" and Tampermonkey does the rest.
 3. Reload Discord. Panel shows top-right.
 
 ## Get your token
