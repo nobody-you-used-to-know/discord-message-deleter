@@ -7,17 +7,17 @@ Your token = full login to your account. No password, no 2FA needed. **Never** p
 
 ## Install
 1. Get [Tampermonkey](https://www.tampermonkey.net/).
-2. Dashboard → **Create new script** → paste [`discord-message-deleter.user.js`](./discord-message-deleter.user.js) → save.
+2. **[Click here to install](https://raw.githubusercontent.com/nobody-you-used-to-know/discord-message-deleter/main/discord-message-deleter.user.js)** — Tampermonkey pops an install prompt. (Or: Dashboard → Create new script → paste [`discord-message-deleter.user.js`](./discord-message-deleter.user.js) → save.)
 3. Reload Discord. Panel shows top-right.
 
 ## Get your token
 `F12` → **Network** tab → type `/api` → click any row.
 
-![Network tab](./images/network-tab.png)
+![Network tab](./network-tab.png)
 
 **Headers → Request Headers → authorization** → copy the value.
 
-![authorization header](./images/authorization-header.png)
+![authorization header](./authorization-header.png)
 
 Paste it in the panel.
 
