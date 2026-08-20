@@ -14,6 +14,7 @@ Your token = full login to your account. No password, no 2FA needed. **Never** p
 4. Reload Discord in your browser. A small trash icon appears in the top-right corner.
 
 ## Get your token
+On the Discord webapp
 `F12` → **Network** tab → type `/api` → click any row.
 
 ![Network tab](./network-tab.png)
