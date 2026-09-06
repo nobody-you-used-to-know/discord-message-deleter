@@ -15,7 +15,7 @@ Your token = full login to your account. No password, no 2FA needed. **Never** p
 
 ## Get your token
 On the Discord webapp
-`F12` → **Network** tab → type `/api` → click any row.
+`F12` → **Network** tab → type `/api` → click any row (Click on anything within Discord in your browser, so its refreshes the network tab.
 
 ![Network tab](./network-tab.png)
 
